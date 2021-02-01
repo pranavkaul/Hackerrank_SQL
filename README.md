@@ -1,4 +1,4 @@
-# Hackerrank-Python
+# Hackerrank-SQL
 
 # Hackerrank SQL Solutions
 
