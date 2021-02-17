@@ -11,7 +11,7 @@ This repository is mainly for my practice and future references, but anyone can 
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](Basic%20Select/Revising_the_select_Query_1.sql)
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic-Select/Revising-the-Select-Query-I.sql)
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](Basic%20Select/Revising-the-select-Query-2.sql)
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL](Basic%20Select/Select-All.sql)
 | 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL](Basic%20Select/Select-By-ID.sql)
