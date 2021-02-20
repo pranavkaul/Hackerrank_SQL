@@ -46,7 +46,7 @@ This repository is mainly for my practice and future references, but anyone can 
 |:------:|------------|:---------:|
 | 1 |[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced-Select/Type_of_Triangle.sql) |
 | 2 |[The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced-Select/The_PADS.sql)|
-| 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced-Select/occupations.sql)|
+| 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced-Select/Occupations.sql)|
 
 <p align="center">  
 	<br>
