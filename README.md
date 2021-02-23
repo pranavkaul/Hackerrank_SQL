@@ -40,6 +40,7 @@ This repository is mainly for my practice and future references, but anyone can 
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](Basic-Select/Employee_Names.sql)
 | 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](Basic-Select/Employee_Salaries.sql)
 
+
 ### Advanced Select Challenges
 
 | Number | Challenges | Solutions |
