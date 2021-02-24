@@ -56,5 +56,5 @@ This repository is mainly for my practice and future references, but anyone can 
         <img height=100 src="https://github.com/pranavkaul/Hackerrank-Python/blob/main/Image.png?raw=true"> 
     </a>
     <br>
-</p>
+</p> 
 
