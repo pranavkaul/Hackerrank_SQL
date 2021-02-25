@@ -51,6 +51,10 @@ This repository is mainly for my practice and future references, but anyone can 
 | 4 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced-Select/Binary_Tree_Nodes.sql)|
 | 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced-Select/New_Companies.sql)|
 
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 |[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Revising_Aggregations%20_The_Count_Function.sql) |
+
 <p align="center">  
 	<br>
         <img height=100 src="https://github.com/pranavkaul/Hackerrank-Python/blob/main/Image.png?raw=true"> 
