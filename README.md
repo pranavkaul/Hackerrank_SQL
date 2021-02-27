@@ -55,6 +55,7 @@ This repository is mainly for my practice and future references, but anyone can 
 |:------:|------------|:---------:|
 | 1 |[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Revising_Aggregations%20_The_Count_Function.sql) |
 | 2 |[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Revising_Aggregations-The_Sum_Function.sql) |
+| 3 |[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Revising_Aggregations-Averages.sql) |
 
 
 
