@@ -59,6 +59,8 @@ This repository is mainly for my practice and future references, but anyone can 
 | 2 |[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Revising_Aggregations-The_Sum_Function.sql) |
 | 3 |[Revising Aggregations - Averages Function](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Revising_Aggregations-Averages.sql) |
 | 4 |[Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Average_Population.sql) |
+| 5 |[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Japan_Population.sql) |
+| 6 |[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Population_Density_Difference.sql) |
 
 
 <p align="center">  
