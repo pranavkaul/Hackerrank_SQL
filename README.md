@@ -61,7 +61,7 @@ This repository is mainly for my practice and future references, but anyone can 
 | 4 |[Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Average_Population.sql) |
 | 5 |[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Japan_Population.sql) |
 | 6 |[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Population_Density_Difference.sql) |
-
+| 7 |[The Blunder](https://www.hackerrank.com/challenges/The-blunder/problem) | [SQL](hhttps://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/The_Blunder.sql) |
 
 <p align="center">  
 	<br>
