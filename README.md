@@ -63,6 +63,7 @@ This repository is mainly for my practice and future references, but anyone can 
 | 6 |[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Population_Density_Difference.sql) |
 | 7 |[The Blunder](https://www.hackerrank.com/challenges/The-blunder/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/The_Blunder.sql) |
 | 8 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Top_Earners.sql) |
+| 9 |[Weather Observation 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_2.sql) |
 
 
 
