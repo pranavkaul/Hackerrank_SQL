@@ -65,6 +65,8 @@ This repository is mainly for my practice and future references, but anyone can 
 | 8 |[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Top_Earners.sql) |
 | 9 |[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_2.sql) |
 | 10 |[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_13.sql) |
+(https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_2.sql) |
+| 11 |[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_14.sql) |
 
 
 
