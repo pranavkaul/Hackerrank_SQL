@@ -1,6 +1,6 @@
 # Hackerrank-SQL
   
- 
+
 <p align="center">  
 	<br> 
 	<a href="https://www.hackerrank.com/pkaul7">
