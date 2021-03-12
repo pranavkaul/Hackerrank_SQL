@@ -72,6 +72,7 @@ This repository is mainly for my practice and future references, but anyone can 
 | 14|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_17.sql) |
 | 15|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_18.sql) |
 | 16|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_19.sql) |
+| 17|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_20.sql) |
 
 
 <p align="center">  
