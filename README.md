@@ -74,6 +74,13 @@ This repository is mainly for my practice and future references, but anyone can 
 | 16|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_19.sql) |
 | 17|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Aggregation/Weather_Observation_Station_20.sql) |
 
+### Basic Join
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Asian_Population.sql)
+
+
 
 <p align="center">  
 	<br>
