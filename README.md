@@ -79,6 +79,7 @@ This repository is mainly for my practice and future references, but anyone can 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Asian_Population.sql)
+| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/African_Cities.sql)
 
 
 
