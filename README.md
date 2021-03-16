@@ -1,6 +1,6 @@
 # Hackerrank-SQL
   
-
+# Click the hackerrank logo to see my profile
 <p align="center">  
 	<br> 
 	<a href="https://www.hackerrank.com/pkaul7">
