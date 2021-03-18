@@ -85,7 +85,6 @@ This repository is mainly for my practice and future references, but anyone can 
 | 6 | [Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Inventory.sql)
 
 
-
 <p align="center">  
 	<br>
         <img height=100 src="https://github.com/pranavkaul/Hackerrank-Python/blob/main/Image.png?raw=true"> 
