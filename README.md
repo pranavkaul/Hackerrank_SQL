@@ -8,6 +8,7 @@
     <br>
 </p>
 
+
 # Hackerrank SQL Solutions
 
 My solutions of [Hackerrank SQL challenges](https://www.hackerrank.com/domains/sql/select).
