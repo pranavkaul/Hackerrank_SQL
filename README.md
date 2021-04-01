@@ -84,6 +84,7 @@ This repository is mainly for my practice and future references, but anyone can 
 | 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/The_Report.sql)
 | 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Top_Competitors.sql)
 | 6 | [Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Inventory.sql)
+| 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Challenges.sql)
 
 
 <p align="center">  
