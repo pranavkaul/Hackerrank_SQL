@@ -85,7 +85,7 @@ This repository is mainly for my practice and future references, but anyone can 
 | 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Top_Competitors.sql)
 | 6 | [Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Inventory.sql)
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Challenges.sql)
-
+| 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Contest_Leaderboard.sql)
 
 <p align="center">  
 	<br>
