@@ -87,6 +87,12 @@ This repository is mainly for my practice and future references, but anyone can 
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Challenges.sql)
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Basic_Join/Contest_Leaderboard.sql)
 
+### Advanced Join
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced%20Join/SQL_Project_Planning.sql)
+
 <p align="center">  
 	<br>
         <img height=100 src="https://github.com/pranavkaul/Hackerrank-Python/blob/main/Image.png?raw=true"> 
