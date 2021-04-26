@@ -93,7 +93,7 @@ This repository is mainly for my practice and future references, but anyone can 
 |:------:|------------|:---------:|
 | 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced%20Join/SQL_Project_Planning.sql)
 | 2 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced%20Join/Placements.sql)
-| 3 | [Symmetric Pairs](hhttps://www.hackerrank.com/challenges/symmetric-pairs/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced%20Join/Symmetric_Pairs.sql)
+| 3 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced%20Join/Symmetric_Pairs.sql)
 
 <p align="center">  
 	<br>
