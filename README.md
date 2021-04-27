@@ -95,6 +95,12 @@ This repository is mainly for my practice and future references, but anyone can 
 | 2 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced%20Join/Placements.sql)
 | 3 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Advanced%20Join/Symmetric_Pairs.sql)
 
+### Advanced Join
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Alternative%20Queries/Draw_The_Triangle_1.sql)
+
 <p align="center">  
 	<br>
         <img height=100 src="https://github.com/pranavkaul/Hackerrank-Python/blob/main/Image.png?raw=true"> 
