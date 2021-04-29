@@ -100,6 +100,9 @@ This repository is mainly for my practice and future references, but anyone can 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Alternative%20Queries/Draw_The_Triangle_1.sql)
+| 2 | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [SQL](https://github.com/pranavkaul/Hackerrank_SQL/blob/main/Alternative%20Queries/Draw_The_Triangle_2.sql)
+
+
 
 <p align="center">  
 	<br>
